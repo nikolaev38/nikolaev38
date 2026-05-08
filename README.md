@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AKSON%20LAB&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Вячеслав%20Кулаковский%20·%20IT%20Lab%20Founder%20%26%20Developer&descSize=16&descAlignY=56&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5&height=200&section=header&text=AKSON%20LAB&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Vyacheslav%20Kulakovsky%20%C2%B7%20IT%20Lab%20Founder%20%26%20Developer&descSize=16&descAlignY=56&descAlign=50" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+%C2%B7+Neurotech+%C2%B7+HCI+%C2%B7+Media;Building+systems+at+the+edge+of+science+%F0%9F%94%AC;AKSON+IT+Laboratory+%E2%80%94+independent+lab;Python+%7C+FastAPI+%7C+Next.js+%7C+Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=AI+%2F+ML+%C2%B7+Neurotech+%C2%B7+HCI+%C2%B7+Media;Building+systems+at+the+edge+of+science;AKSON+IT+Laboratory+%E2%80%94+independent+lab;Python+%7C+FastAPI+%7C+Next.js+%7C+Docker)](https://git.io/typing-svg)
 
 <br/>
 
@@ -100,13 +100,13 @@ Cats     : [██████████] Always online 🐱
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com?user=nikolaev38&hide_border=true&background=0d1117&stroke=A855F7&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak"/>
+<img height="165" src="https://streak-stats.demolab.com?user=nikolaev38&hide_border=true&background=0d1117&stroke=60A5FA&ring=60A5FA&fire=93C5FD&currStreakLabel=60A5FA&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolaev38&theme=react-dark&bg_color=0d1117&color=A855F7&line=7C3AED&point=C084FC&hide_border=true&area=true&radius=10" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolaev38&theme=react-dark&bg_color=0d1117&color=60A5FA&line=3B82F6&point=93C5FD&hide_border=true&area=true&radius=10" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -130,4 +130,4 @@ Cats     : [██████████] Always online 🐱
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5&height=120&section=footer" width="100%"/>
