@@ -100,14 +100,7 @@ Cats     : [██████████] Always online 🐱
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=nikolaev38&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
-
-</div>
-
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com?user=nikolaev38&hide_border=true&background=0d1117&stroke=A855F7&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak"/>&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaev38&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&border_radius=10" alt="Top Languages"/>
+<img height="165" src="https://streak-stats.demolab.com?user=nikolaev38&hide_border=true&background=0d1117&stroke=A855F7&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
