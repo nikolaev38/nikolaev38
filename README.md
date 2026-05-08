@@ -16,7 +16,7 @@
 <tr>
 <td valign="top" width="63%">
 
-### 👾 `whoami`
+### `whoami`
 
 ```bash
 $ cat about.txt
@@ -34,11 +34,10 @@ Cats     : [██████████] Always online 🐱
 Привет! Я **Вячеслав** — основатель **AKSON**, независимой IT-лаборатории,
 которая строит системы на стыке науки, технологий и дизайна.
 
-- 🧠 Нейротехнологии и когнитивные системы
-- 🤖 AI/ML и продуктовые платформы
-- 🎨 Цифровой дизайн и медиа
-- 📚 Образовательные и исследовательские инструменты
-- 🐱 Котики — это не хобби, это философия
+- Нейротехнологии и когнитивные системы
+- AI/ML и продуктовые платформы
+- Цифровой дизайн и медиа
+- Образовательные и исследовательские инструменты
 
 > *"Technology, science, education & creative technologies — all in one lab"*
 
@@ -55,7 +54,7 @@ Cats     : [██████████] Always online 🐱
 
 ---
 
-### 🔬 AKSON Laboratory
+### AKSON Laboratory
 
 <div align="center">
 
@@ -73,21 +72,21 @@ Cats     : [██████████] Always online 🐱
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
 
-| 🏷 Project | 📝 Description | 🔧 Stack | 📌 |
+| Project | Description | Stack | Status |
 |:---|:---|:---|:---:|
-| 🎓 **Akson Track** | Платформа управления треками развития студентов | Python · FastAPI · Next.js · Docker | 🟢 |
-| 🧠 **NeuroGuard** | Мониторинг когнитивной перегрузки на основе ЭЭГ-сигналов | Python · ML | 🔬 |
-| 🛡 **SIGNAL** | Автоматизированная система реагирования на угрозы в образовательных организациях | Python | ✅ |
+| **Akson Track** | Платформа управления треками развития студентов | Python · FastAPI · Next.js · Docker | 🟢 |
+| **NeuroGuard** | Мониторинг когнитивной перегрузки на основе ЭЭГ-сигналов | Python · ML | 🔬 |
+| **SIGNAL** | Автоматизированная система реагирования на угрозы в образовательных организациях | Python | ✅ |
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -97,7 +96,7 @@ Cats     : [██████████] Always online 🐱
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -124,7 +123,7 @@ Cats     : [██████████] Always online 🐱
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80" alt="cat"/>
 
-**Thanks for stopping by AKSON Lab!** &nbsp; ✨
+**Thanks for stopping by AKSON Lab!**
 
 *If something caught your eye — drop a ⭐ and feel free to reach out*
 
